@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+
+<category><pattern>WHAT IS ECOLOGIX</pattern><template>   <set name="it">The ECOLOGIX is High-tech IT infrastructure </set> to hit your ROI up to the mark and make you
+
+technologically competitive in the business environment.</template></category>  
+<category>
+   <pattern> unique * is a *. </pattern>
+   <template> When a <star index = "1"/> is not a <star index = "2"/>?</template>
+</category>
+<category>
+   <pattern> Please Open *  </pattern>
+   <template> Please a <star index = "1"/>?</template>
+</category>
+<category>
+   <pattern> I will go with *  </pattern>
+   <template> Will go <star index = "1"/>?</template>
+</category>
+<category>
+   <pattern>Open *  </pattern>
+   <template>Open <star index = "1"/>?</template>
+</category>
+<category>
+   <pattern>I need *  </pattern>
+   <template>Need <star index = "1"/>?</template>
+</category>
+<category>
+   <pattern>I want to use *  </pattern>
+   <template>I want <star index = "1"/>?</template>
+</category>
+<category>
+   <pattern>I want to open *  </pattern>
+   <template>I want open <star index = "1"/>?</template>
+</category>
+
+<category>
+   <pattern>want to use *  </pattern>
+   <template>want <star index = "1"/>?</template>
+</category>
+<category>
+   <pattern>What's about *  </pattern>
+   <template>About <star index = "1"/>?</template>
+</category>
+<category>
+   <pattern>What about *  </pattern>
+   <template>About <star index = "1"/>?</template>
+</category>
+<category>
+   <pattern>Whats about *  </pattern>
+   <template>About <star index = "1"/>?</template>
+</category>
+<category>
+   <pattern>Only *  </pattern>
+   <template>Only <star index = "1"/>?</template>
+</category>
+
+</aiml>
+
+
